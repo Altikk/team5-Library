@@ -276,8 +276,6 @@
 | Документация | R | C | C | C | C |
 | Защита проекта | R | C | C | C | C |
 
-> Замечание: в строках «Система опыта и рангов» и «Тестирование» несколько R при одном A — это допустимо, но за каждую подзадачу внутри должен отвечать один исполнитель.
-
 ## 8. Календарная привязка
 
 ### 8.1 Первый семестр (MVP)
@@ -320,3 +318,9 @@
 | Vision, границы системы, метрики | [Vision.md](Vision.md) |
 | Акторы и Use Case | [UseCases.md](UseCases.md) |
 | C4 Context Diagram | [C4Context.md](C4Context.md) |
+| C4 Container Diagram | [C4Container.md](C4Container.md) |
+| Пакеты работ, RACI, риски контейнеров, запросы на изменение | [WorkPackages.md](WorkPackages.md) |
+| Архитектурные решения (ADR) | [adr/](adr/) |
+| C4 Component Diagram (API-сервер) | [C4Component.md](C4Component.md) |
+| План работ: задачи, критический путь, итерации, загрузка | [WorkPlan.md](WorkPlan.md) |
+| Трассируемость требований и приёмочные проверки | [Traceability.md](Traceability.md) |
